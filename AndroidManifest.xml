@@ -16,6 +16,18 @@
         <activity
             android:name="com.example.eventhandling.MainActivity"
             android:label="@string/app_name" >
+        </activity>
+        <activity android:name="com.example.eventhandling.Case" >
+        </activity>
+        <activity android:name="com.example.eventhandling.Radio" >
+        </activity>
+        <activity
+            android:name="com.example.eventhandling.Textmod"
+            android:label="@string/title_activity_textmod" >
+        </activity>
+        <activity
+            android:name="com.example.eventhandling.Calculator"
+            android:label="@string/title_activity_calculator" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 

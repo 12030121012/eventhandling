@@ -27,20 +27,82 @@ public final class R {
         public static final int ic_launcher=0x7f020000;
     }
     public static final class id {
-        public static final int action_settings=0x7f090001;
-        public static final int btnClick=0x7f090000;
+        public static final int action_settings=0x7f090030;
+        public static final int addition=0x7f09000d;
+        public static final int btnClick=0x7f090017;
+        public static final int c=0x7f09002c;
+        public static final int c0=0x7f09002e;
+        public static final int checkBox1=0x7f09002f;
+        public static final int clear=0x7f090011;
+        public static final int divide=0x7f090004;
+        public static final int dot=0x7f09000f;
+        public static final int editString=0x7f090019;
+        public static final int equal=0x7f09000c;
+        public static final int et=0x7f09001e;
+        public static final int lcase=0x7f09001c;
+        public static final int lower=0x7f090014;
+        public static final int multiply=0x7f090008;
+        public static final int n0=0x7f09000e;
+        public static final int n1=0x7f090006;
+        public static final int n2=0x7f09000b;
+        public static final int n3=0x7f09000a;
+        public static final int n4=0x7f090005;
+        public static final int n5=0x7f090007;
+        public static final int n6=0x7f090009;
+        public static final int n7=0x7f090001;
+        public static final int n8=0x7f090002;
+        public static final int n9=0x7f090003;
+        public static final int output=0x7f090013;
+        public static final int r=0x7f090022;
+        public static final int r0=0x7f090023;
+        public static final int r1=0x7f090024;
+        public static final int r2=0x7f090028;
+        public static final int r3=0x7f090029;
+        public static final int r4=0x7f09002a;
+        public static final int radioGroup1=0x7f090016;
+        public static final int rg=0x7f090020;
+        public static final int rg0=0x7f090026;
+        public static final int rgCase2=0x7f09001a;
+        public static final int screen=0x7f090000;
+        public static final int subtract=0x7f090010;
+        public static final int text=0x7f090012;
+        public static final int textString=0x7f09001d;
+        public static final int textView1=0x7f090021;
+        public static final int textView2=0x7f090027;
+        public static final int textView3=0x7f09002d;
+        public static final int tv=0x7f09001f;
+        public static final int tv0=0x7f09002b;
+        public static final int tv1=0x7f090025;
+        public static final int txt1=0x7f090018;
+        public static final int ucase=0x7f09001b;
+        public static final int upper=0x7f090015;
     }
     public static final class layout {
-        public static final int activity_main=0x7f030000;
+        public static final int activity_calculator=0x7f030000;
+        public static final int activity_case=0x7f030001;
+        public static final int activity_main=0x7f030002;
+        public static final int activity_radio=0x7f030003;
+        public static final int activity_textmod=0x7f030004;
     }
     public static final class menu {
-        public static final int main=0x7f080000;
+        public static final int calculator=0x7f080000;
+        public static final int case1=0x7f080001;
+        public static final int main=0x7f080002;
+        public static final int radio=0x7f080003;
+        public static final int textmod=0x7f080004;
     }
     public static final class string {
         public static final int action_settings=0x7f050001;
         public static final int app_name=0x7f050000;
         public static final int caption=0x7f050003;
         public static final int hello_world=0x7f050002;
+        public static final int low=0x7f050006;
+        public static final int out=0x7f050007;
+        public static final int title_activity_calculator=0x7f05000a;
+        public static final int title_activity_case=0x7f050004;
+        public static final int title_activity_radio=0x7f050008;
+        public static final int title_activity_textmod=0x7f050009;
+        public static final int up=0x7f050005;
     }
     public static final class style {
         /** 
